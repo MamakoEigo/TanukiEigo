@@ -9,7 +9,6 @@
 .header {
     height: 100px;
     width: 400px; /** Use 100% to fill the width of the page **/
-    position: scroll;
     top: 0;
     left: 0;
     right: 0;
