@@ -7,9 +7,9 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 .header {
-    height: 200px;
+    height: 100px;
     width: 400px; /** Use 100% to fill the width of the page **/
-    position: absolute;
+    position: relative;
     top: 0;
     left: 0;
     right: 0;
