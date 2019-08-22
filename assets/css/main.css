@@ -7,10 +7,10 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 .header {
-    height: 0px;
+    height: 200px;
     width: 400px; /** Use 100% to fill the width of the page **/
     position: relative;
-    top: 0;
+    top: 100;
     left: 0;
     right: 0;
     margin: 0 auto;
