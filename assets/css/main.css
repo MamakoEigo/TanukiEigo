@@ -9,11 +9,11 @@
 .header {
     height: 100px;
     width: 400px; /** Use 100% to fill the width of the page **/
-    position: fixed;
+    position: top;
     top: 0;
     left: 0;
     right: 0;
-    margin: 0 auto;
+    margin: 200;
 }
 
 img.banner {
