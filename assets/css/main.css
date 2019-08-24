@@ -17,7 +17,7 @@ html,body
 
 .header {
     height: -100px;
-    width: 400px; /** Use 100% to fill the width of the page **/
+    width: 0 auto; /** Use 100% to fill the width of the page **/
     position: relative;
     top: 0;
     left: 0;
