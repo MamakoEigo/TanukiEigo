@@ -8,8 +8,8 @@
 */
 
 .header {
-    height: -100px;
-    width: 0 auto; /** Use 100% to fill the width of the page **/
+    height: 0;
+    width: 0; /** Use 100% to fill the width of the page **/
     position: relative;
     top: 0;
     left: 0;
